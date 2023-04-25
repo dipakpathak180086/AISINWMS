@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "S:\\TechnicalSupport\\Tech Support Dept\\Solutions Department\\Akhilesh\\Final Projects\\AISIN\\AISIN WMS\\Android\\Version1.0\\SatoScanningApp\\SatoScanningApp\\SatoScanningApp.csproj": {}
+  },
+  "projects": {
+    "S:\\TechnicalSupport\\Tech Support Dept\\Solutions Department\\Akhilesh\\Final Projects\\AISIN\\AISIN WMS\\Android\\Version1.0\\SatoScanningApp\\SatoScanningApp\\SatoScanningApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\TechnicalSupport\\Tech Support Dept\\Solutions Department\\Akhilesh\\Final Projects\\AISIN\\AISIN WMS\\Android\\Version1.0\\SatoScanningApp\\SatoScanningApp\\SatoScanningApp.csproj",
+        "projectName": "SatoScanningApp",
+        "projectPath": "S:\\TechnicalSupport\\Tech Support Dept\\Solutions Department\\Akhilesh\\Final Projects\\AISIN\\AISIN WMS\\Android\\Version1.0\\SatoScanningApp\\SatoScanningApp\\SatoScanningApp.csproj",
+        "packagesPath": "C:\\Users\\sar.mayank.nasa\\.nuget\\packages\\",
+        "outputPath": "S:\\TechnicalSupport\\Tech Support Dept\\Solutions Department\\Akhilesh\\Final Projects\\AISIN\\AISIN WMS\\Android\\Version1.0\\SatoScanningApp\\SatoScanningApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sar.mayank.nasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+10.80.20.7
+AISIN_SATO
+sa
+aisin@123
+CommServerIP=10.91.6.11
+CommServer Port = 5150
+ExeName=AISIN_App

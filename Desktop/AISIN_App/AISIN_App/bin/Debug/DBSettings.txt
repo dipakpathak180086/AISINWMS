@@ -1,0 +1,7 @@
+SAR-N-PG02J28K
+AISIN_SATO
+sa
+sato@123
+CommServerIP=10.91.6.11
+CommServer Port = 5150
+ExeName=AISIN_App

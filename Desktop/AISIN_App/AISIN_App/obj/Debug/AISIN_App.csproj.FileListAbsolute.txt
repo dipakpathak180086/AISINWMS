@@ -1,0 +1,213 @@
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\TPR_App.exe.config
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\TPR_App.exe
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\TPR_App.pdb
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmChangePassword.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmMenu.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmColorMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmCustomerMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmGroupMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmMachineMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDispatchCancel.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmAfterMachiningNg.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmTrolleyReceiving.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmNgPercentage.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmMachiningHold.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmTrolleyStock.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmCuttingCardUpdate.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDispatchOrder.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmUserMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmTrolleyMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmShiftMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmModelMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmLogin.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmLineMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmLocationMaster.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmReprint.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmQASampling.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmQA.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmProductionPlan.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmCuttingDefect.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmCutting.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmTest.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.Properties.Resources.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptPicking.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptTrolleyReceiving.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptInventory.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptDispatch.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptFinalPacking.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptNgView.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptMachining.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptReOiling.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptQA.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRptCutting.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.exe
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.pdb
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmRejection.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmLoginDevice.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceMaineMenu.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceRejection.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceFraction.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceRejectionWithOutPart.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceFractionWithOutPartBarcode.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDevicePutAway.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmUploadPickList.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDevicePicking.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDevicePickingLocationFIFO.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceDirectDispatch.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDeviceDispatchAfterPicking.resources
+D:\Amit\Project\AISIN\App\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\TPR_App.frmDirectDispatchDetails.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.Properties.Resources.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe.config
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.pdb
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmChangePassword.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmMenu.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmGroupMaster.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmCustomerMaster.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUploadPickList.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUserMaster.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLogin.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLineMaster.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLocationMaster.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReprint.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmTest.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmPartMaster.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProduction.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLoadingList.resources
+D:\Amit\Project\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe.config
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.pdb
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmChangePassword.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmMenu.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmGroupMaster.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmCustomerMaster.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUploadPickList.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUserMaster.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmPartMaster.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLogin.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLineMaster.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLocationMaster.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReprint.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProduction.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmTest.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLoadingList.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.Properties.Resources.resources
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+E:\DIPAK\Development\New Project\By Amit Sir\Amit Sir Handover\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe.config
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.pdb
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmChangePassword.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmMenu.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmGroupMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmCustomerMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUploadPickList.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUserMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmPartMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLogin.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLineMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLocationMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReprint.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProduction.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmTest.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLoadingList.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.Properties.Resources.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReport.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmDirectDispatchReport.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProcessWiseReport.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe.config
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\bin\Debug\AISIN_App.pdb
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmChangePassword.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmMenu.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmGroupMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmCustomerMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmDirectDispatchReport.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProcessWiseReport.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReport.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUploadPickList.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUserMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmPartMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLogin.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLineMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLocationMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReprint.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProduction.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmTest.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLoadingList.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.Properties.Resources.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN Code 030121\Desktop\Ver1.0.0.0\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe.config
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\bin\Debug\AISIN_App.pdb
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmChangePassword.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmMenu.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmGroupMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmCustomerMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmDirectDispatchReport.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProcessWiseReport.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReport.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUploadPickList.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUserMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmPartMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLogin.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLineMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLocationMaster.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReprint.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProduction.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmTest.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLoadingList.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.Properties.Resources.resources
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb
+D:\Akhilesh Kumar\Projects\AISIN\Code\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+S:\TechnicalSupport\Tech Support Dept\Solutions Department\Akhilesh\Final Projects\AISIN\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csprojAssemblyReference.cache
+S:\TechnicalSupport\Tech Support Dept\Solutions Department\Akhilesh\Final Projects\AISIN\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+S:\TechnicalSupport\Tech Support Dept\Solutions Department\Akhilesh\Final Projects\AISIN\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe.config
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\bin\Debug\AISIN_App.exe
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\bin\Debug\AISIN_App.pdb
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmChangePassword.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmMenu.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmGroupMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmCustomerMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmDirectDispatchReport.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProcessWiseReport.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReport.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUploadPickList.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmUserMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmPartMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLogin.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLineMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLocationMaster.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmReprint.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmProduction.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmTest.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.frmLoadingList.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.Properties.Resources.resources
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.GenerateResource.cache
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.csproj.CoreCompileInputs.cache
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.exe
+D:\Projects\Live Project\New Project\AISIN\By Akhilesh\AISIN Code 030122\AISIN WMS\Desktop\AISIN_App\AISIN_App\obj\Debug\AISIN_App.pdb

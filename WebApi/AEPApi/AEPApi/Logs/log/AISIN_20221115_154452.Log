@@ -1,0 +1,8 @@
+
+[Log Startup at 15:44:52]
+(Ver:-10.0.22489.1000)2022-11-15 15:44:52.021 (Info) SatoAppsInitialize  ::  Main - Initializing Application.......on 
+[Log Shutdown at 15:44:52]
+
+
+[Log Startup at 15:44:52]
+(Ver:-10.0.22489.1000)2022-11-15 15:44:52.024 (Data) AEPApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null::Application_Start   - AppInitialize
